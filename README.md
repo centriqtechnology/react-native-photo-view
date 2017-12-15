@@ -1,5 +1,12 @@
 # react-native-photo-view
 
+## Fork of danieljvdm/react-native-photo-view#patch-1
+
+- Adds support for cocoapods installation of React Native
+- Centriq switched to this branch when SDK 21 was upgraded to
+
+----
+
 Provides custom Image view for React Native that allows to perform
 pinch-to-zoom on images. Works on both iOS and Android.
 
